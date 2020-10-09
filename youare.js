@@ -58,25 +58,3 @@ function playBall(){
         setTimeout('playBall()',1);
         }
         }
-
-/*
-     FILE ARCHIVED ON 05:15:49 Oct 19, 2004 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 17:34:23 May 19, 2020.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 621.515
-  LoadShardBlock: 593.366 (3)
-  esindex: 0.018
-  PetaboxLoader3.datanode: 108.407 (4)
-  RedisCDXSource: 7.612
-  PetaboxLoader3.resolve: 539.386 (2)
-  exclusion.robots: 0.182
-  CDXLines.iter: 16.312 (3)
-  exclusion.robots.policy: 0.167
-  load_resource: 79.872
-*/
