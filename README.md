@@ -1,2 +1,0 @@
-# youareanidiot.org-original
-
